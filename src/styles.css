@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list {
+  display: flex;
+}
+li {
+  margin: 5px;
+}
+button {
+  margin: 5px;
+}
